@@ -1,4 +1,4 @@
-package hello.itemservice.domain;
+package hello.itemservice.domain.item;
 
 import java.util.ArrayList;
 import java.util.HashMap;
